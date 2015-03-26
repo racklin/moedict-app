@@ -1,11 +1,10 @@
 CACHE MANIFEST
-# Mon Sep 29 01:50:12 CST 2014
+# Fri Mar 20 21:47:22 CST 2015
 
 CACHE:
 
 # core App files
 index.html
-main.js
 styles.css
 
 # core JSON files
@@ -47,7 +46,7 @@ about.html
 favicon.ico
 
 # js files
-js/deps.js
+js/deps.js?4eddc2fa
 
 # optional deps
 js/howler.js
